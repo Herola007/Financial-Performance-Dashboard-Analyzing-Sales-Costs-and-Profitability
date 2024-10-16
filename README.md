@@ -19,3 +19,11 @@ These metrics are presented through a comprehensive dashboard built using Power 
 
 ## Insights
 #### Units Sold Dashboard
+![Unit_sold](https://github.com/Herola007/Financial-Report-Analysis/blob/main/Dashboard_Jpg/Unit_Sold.png?raw=true)
+
+The dashboard above gives an overview of how units were sold over a space of two years. The dashboard shows that the total units sold amounted to $1.13M, the average manufacturing cost of the product sold was $96.48, the total gross sales was $127.93M, the total discount provided to customers was $9.21M, the average cost of goods sold(COGS) amounted to $145,480, the total revenue generated was $118.73M and the total profit generated was $16.89M.
+
+We went further to look into Units Sold by Product which was presented with a bar chart. This chart shows that Paseo Products was sold the most among other products with a Unit Sold Value of 338,240 followed by VVT which sold 168,780 units, the product with the least unit sold is Carretera with a value of 146,850 units sold which also has an average manufacturing cost of $3. Another chart was created to show the Units Sold by Segment
+
+
+
