@@ -56,7 +56,7 @@ I also analyzed total profit by country, and the bar chart showed that the US ma
 For the profit dashboard, a new column chart was created to show the monthly profit distribution. December stood out as the month with the highest profit at $2.03M, followed by October at $1.78M, while November recorded the lowest profit with $604,600 over two years.
 
 
-PS: This is a fictional dataset provided by Microsoft solely for learning purposes. If you would like me to work for your organization, please don’t hesitate to reach out via LinkedIn or email.
+**PS: This is a fictional dataset provided by Microsoft solely for learning purposes. If you would like me to work for your organization, please don’t hesitate to reach out via LinkedIn or email.**
 
 Thank you!
 
