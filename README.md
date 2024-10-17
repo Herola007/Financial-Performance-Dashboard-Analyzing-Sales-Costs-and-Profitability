@@ -45,6 +45,10 @@ In addition, I created a bar chart displaying gross sales by month. The chart sh
 
 
 #### Profit Dashboard
+![Profit]
+
+
+
 
 
 
